@@ -24,8 +24,8 @@ A continuación, mis proyectos más relevantes que demuestran la aplicación de 
 
 ### 🎵 SyncUp: Plataforma de Streaming Social
 * **Complejidad:** Implementación de **Algoritmos de Dijkstra** para recomendaciones musicales y un **Árbol Trie** para búsquedas instantáneas.
-* **[VER CÓDIGO FRONTEND (ANGULAR)]** (https://github.com/MAngel4311/syncup-frontend)
-* **[VER CÓDIGO BACKEND (JAVA/SPRINGBOOT)]** (https://github.com/MAngel4311/syncup-Backend)
+* **REPOSITORIO FRONTEND (ANGULAR + ANGULAR MATERIAL)** (https://github.com/MAngel4311/syncup-frontend)
+* **VER CÓDIGO BACKEND (JAVA/SPRINGBOOT)** (https://github.com/MAngel4311/syncup-Backend)
 
 ### 💼 Experiencia de Desarrollo Aplicado (Freelance)
 * Colaboración en el desarrollo Full-Stack para **soluciones personalizadas**, utilizando **JAVA** y **Angular** en entornos reales.
