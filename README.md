@@ -2,7 +2,7 @@
 
 ### 💻 Futuro Ingeniero de Sistemas, futuro Desarrollador Full-Stack y futuro experto en ciberseguridad.
 
-Estudiante de **Dev Senior Code** ![Uploading HackerHackerManGIF (2).gif…]()
+Estudiante de **Dev Senior Code**✌️👨‍💻 y de la **Universidad del Quindio**
 
 
 Soy un profesional en formación con un enfoque práctico en el desarrollo de **soluciones robustas** y **seguras**. Mi experiencia combina el desarrollo Backend con **JAVA/Springboot** y la construcción de interfaces dinámicas y protegidas con **Angular**.
